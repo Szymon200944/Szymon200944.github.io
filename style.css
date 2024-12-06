@@ -1,0 +1,22 @@
+p
+{
+ color: brown;
+ font-weight: 500 ;
+ font-size: large;
+}
+body
+{
+background-color: aqua;
+font-family: oswald;
+
+
+}
+img
+{
+width: 500px;
+border: 10px;
+border-color: blueviolet;
+border-style: dashed;
+
+
+}
